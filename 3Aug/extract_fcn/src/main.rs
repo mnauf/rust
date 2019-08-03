@@ -1,8 +1,8 @@
 
-    fn largest(list: &[i32])->&i32{
+    fn largest(list: &[i32])->i32{
         println!("{:?}",list);
-        let mut largest = &list[0];
-        for i in list {
+        let mut largest = list[0];
+        for &i in list {
             if i>largest{
                 largest = i;
             };
