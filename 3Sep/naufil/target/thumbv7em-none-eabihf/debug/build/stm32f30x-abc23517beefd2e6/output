@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/naufil/Desktop/rust_github/3Sep/naufil/target/thumbv7em-none-eabihf/debug/build/stm32f30x-abc23517beefd2e6/out
+cargo:rerun-if-changed=device.x
+cargo:rerun-if-changed=build.rs

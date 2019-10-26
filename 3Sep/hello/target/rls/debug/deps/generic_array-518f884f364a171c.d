@@ -1,0 +1,11 @@
+/home/naufil/Desktop/rust_github/3Sep/hello/target/rls/debug/deps/generic_array-518f884f364a171c.rmeta: /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/lib.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/hex.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/impls.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/arr.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/functional.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/iter.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/sequence.rs
+
+/home/naufil/Desktop/rust_github/3Sep/hello/target/rls/debug/deps/generic_array-518f884f364a171c.d: /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/lib.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/hex.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/impls.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/arr.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/functional.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/iter.rs /home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/sequence.rs
+
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/lib.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/hex.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/impls.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/arr.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/functional.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/iter.rs:
+/home/naufil/.cargo/registry/src/github.com-1ecc6299db9ec823/generic-array-0.12.3/src/sequence.rs:

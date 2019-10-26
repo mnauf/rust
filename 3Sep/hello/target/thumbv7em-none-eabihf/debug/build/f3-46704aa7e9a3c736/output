@@ -1,0 +1,3 @@
+cargo:rustc-link-search=/home/naufil/Desktop/rust_github/3Sep/hello/target/thumbv7em-none-eabihf/debug/build/f3-46704aa7e9a3c736/out
+cargo:rerun-if-changed=build.rs
+cargo:rerun-if-changed=memory.x
