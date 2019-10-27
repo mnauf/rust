@@ -1,7 +1,6 @@
 #[cfg(test)]
-mod tests {
-    #[test]
-    fn it_works() {
-        assert_eq!(2 + 2, 4);
+pub mod area {
+    fn circle_area(r: f64)->f64{
+        (3.142 * r * r) as f64
     }
 }
