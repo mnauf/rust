@@ -1,4 +1,4 @@
 extern crate practice;
 fn main() {
-    println!("{}",practice::area::area_circle(2.0));
+    println!("{}",practice::area::circle_area(2.0));
 }

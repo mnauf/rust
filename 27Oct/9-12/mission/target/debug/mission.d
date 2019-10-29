@@ -1,0 +1,1 @@
+/home/naufil/Desktop/rust_github/27Oct/9-12/mission/target/debug/mission: /home/naufil/Desktop/rust_github/27Oct/9-12/administration/time_table/src/lib.rs /home/naufil/Desktop/rust_github/27Oct/9-12/mission/src/main.rs /home/naufil/Desktop/rust_github/27Oct/9-12/syllabus/src/lib.rs /home/naufil/Desktop/rust_github/27Oct/9-12/teachers_name/src/lib.rs

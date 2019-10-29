@@ -1,0 +1,1 @@
+/home/naufil/Desktop/rust_github/27Oct/roject/IOT_bin/target/debug/IOT_bin: /home/naufil/Desktop/rust_github/27Oct/roject/IOT/src/lib.rs /home/naufil/Desktop/rust_github/27Oct/roject/IOT_bin/src/main.rs
